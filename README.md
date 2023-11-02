@@ -1,1 +1,1 @@
-# belajar-nextjs22
+# belajar-nextjs2
